@@ -1,0 +1,48 @@
+MobileNumber:                     9869118129
+ValidJioNumber:                   8591917115  #8591917115    #9321404128        #9819229878
+proceedButton:                    xpath://button[@aria-label='button Proceed']
+orderTrackingDetails:             xpath://*[@id="basic-input"]
+crossButton1:                     xpath://span[@class="input-icon input-icon-suffix clickable"]      
+Headings:                         ["No orders to track","Verify Identity","My orders"]
+SubHeadings:                      ["There is no order pending for your number. Please use other details to search again","Find your recent orders"]
+URLs:                             ['https://www.jio.com/selfcare/track-orders/?flow=token','https://www.jio.com/selfcare/interest/sim/','https://www.jio.com/selfcare/interest/fiber/?nav=g','https://www.jio.com/selfcare/track-orders/?flow=token','https://www.jio.com/selfcare/track-orders/my-orders/?flow=otp','https://www.jio.com/selfcare/interest/sim/','https://www.jio.com/en-in/jio-cashback-offer']
+NoOrder:                          xpath://div[normalize-space()='Meanwhile, you can order a new SIM or book a JioFiber connection online to enjoy seamless connectivity, fast internet, and complimentary benefits.']
+NoOrderText:                      "Meanwhile, you can order a new SIM or book a JioFiber connection online to enjoy seamless connectivity, fast internet, and complimentary benefits."
+GetJioSIMButton:                  xpath://button[@aria-label='button Get Jio SIM']
+GetJioFiberButton:                xpath://button[@aria-label='button Get JioFiber']
+checkAnotherOrderButton1:         xpath://button[@aria-label='button Check another order']
+VerifyButton:                     xpath://button[@aria-label="button Verify"]
+ResendButton:                     xpath://button[@aria-label='button Resend code']
+ErrorToast:                       xpath://div[@class='ErrorToast_notificationErrorStyle__KAzDY j-notification j-notification__kind-semantic j-notification__duration-short']
+NoOrderPageButtons:               ["Get Jio SIM","Get JioFiber","Check another order"]
+ErrorMessage:                     ["Enter valid order tracking details","That's not the OTP we sent. Please re-enter and try again"]
+checkAnotherOrderButton2:         xpath://button[@class='j-button j-button-size__medium secondary']
+OTPSubHeading:                    xpath://div[@class='txt-align--center j-text j-text-body-xs']
+OrderTile:                        xpath://div[@class='j-card size--xl card-horizontal j-card__shadow']
+InputField_1:                     xpath://input[@id='basic-input-testInput-code-block-0']
+InputField_4:                     xpath://input[@id='basic-input-testInput-code-block-3']
+NeedHelpLink:                     xpath://span[normalize-space()='Need help with your order?']
+order_placeholder:                xpath://input[@id='orderNo']
+Trackorder_button:                xpath://button[@id='guestUserOrderDetails']
+Esim_button:                      xpath://a[@aria-label='eSIM request']//div[@class='j-listBlock__block-text']
+trackingdetails_placeholder:      xpath://label[normalize-space()='Enter tracking details'] 
+numbered_text:                    xpath://div[@class="j-text j-text-body-s"]
+hyperlink_text:                   xpath://div[@class='j-text j-text-body-s-link']
+hyperlink_popup:                  xpath://div[contains(@class,'j-modal-container')]
+ErrorCrossIcon:                   xpath://button[@class='j-button j-button-size__medium tertiary icon-primary icon-only']//i[@class='j-button-icon'] 
+placeholder_text:                 ['Type Order Number', '1234']
+Trackingdetails_format:           ['1. Mobile Number','2. Order Reference Number','3. Lead Reference Number for JioFiber','4. JioFiber Voice Number/Service ID/RMN']
+DevicesURL:                       https://www.jio.com/shop/viewOrderDetails
+view:                             View Order Details
+InvalidOrderNo_Toast:             Invalid Order number
+subheading:                       Choose the order type that you wish to track.
+InvalidOrderNo:                   abcdefgh
+ProductTitle:                     xpath:(//div[@class="j-text j-text-heading-m"])[1]
+ProductID:                        xpath://div[@class="j-text j-text-body-s-bold"]
+ProductDate:                      xpath:(//div[@class="j-text j-text-body-s"])[2]
+DeliveryDetails:                  xpath://section[@class='deliveryDetails_deliveryDetails__1oto_ j-container']
+GuestUserOrderDetails:            xpath://button[@id='guestUserOrderDetails']
+CallButton:                       xpath:(//button[@class="j-button j-button-size__large primary icon-primary icon-primary-inline"])[1]
+EmailButton:                      xpath:(//button[@class="j-button j-button-size__large primary icon-primary icon-primary-inline"])[2]
+crossButton2:                     xpath://button[@class="j-button j-button-size__medium tertiary icon-primary icon-only"]
+BackButton:                       xpath://div[@class="j-text j-text-body-s-link"]

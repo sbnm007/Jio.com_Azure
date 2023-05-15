@@ -1,0 +1,75 @@
+Prepaid:                //a[@cust-url='/selfcare/plans/fiber/fiber-prepaid-plans-home/']
+UrlsPrepaid:            ["https://www.jio.com/selfcare/login/jio-fiber/","https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ=="]
+
+#AlreadyAJioFiberUser
+PlanButtons:            ["Annual","Semi-Annual","Quarterly","Monthly","ISD","Top-up","Data Sachet"]
+PlanUrls:               ["https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-annual-plans/?category=Annual&categoryId=QW5udWFs","https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-list/?category=Semi-Annual&categoryId=U2VtaS1Bbm51YWw=","https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-list/?category=Quarterly&categoryId=UXVhcnRlcmx5","https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ==","https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-list/?category=ISD&categoryId=SVNE","https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-list/?category=Top-up&categoryId=VG9wLXVw","https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-list/?category=Data%20Sachet&categoryId=RGF0YSBTYWNoZXQ="]
+
+#MonthlyPrepaid
+P_Content:              xpath=//div[@class='j-modal j-modal-visible j-modal-closable j-modal-size-s planDetailsPopup j-modal-kind-dialog']//div[@class='j-modal-container']//div//div[@class='j-contentBlock j-contentBlock__size-xxs']
+Re_Button:              xpath=//div[@class='j-modal j-modal-visible j-modal-closable j-modal-size-s planDetailsPopup j-modal-kind-dialog']//div[@class='j-modal-container']//div//div[@class='j-modal-body']//button[@aria-label='button']
+C_Button:               xpath=//div[@class='j-modal j-modal-visible j-modal-closable j-modal-size-s planDetailsPopup j-modal-kind-dialog']//div[@class='j-modal-container']//div//header[@class='j-modal-header']//button[@aria-label='button']
+Monthly_Plan_Speeds:    ['150 Mbps','100 Mbps','30 Mbps','300 Mbps','500 Mbps','1 Gbps']
+Invalid_Num_Error:      It seems you have entered a non-Jio number. Please try again with a Jio number
+
+#Plan Card Heading
+Plan_Speeds:            ['30 Mbps','100 Mbps','150 Mbps','300 Mbps','500 Mbps','1 Gbps']
+
+#ISD
+ISDButtons:             ["Annual","Semi-Annual","Quarterly","Monthly","Top-up","Data Sachet"]
+
+#Data Sachet
+Amount:                 Amount Payable
+
+#MoreInformation
+MoreButtons:            ["Plan packs","ISD Packs","T&C"]
+
+#Prepaid
+plan_tag :              ["POPULAR PLAN" , "Value pack" , "Bestselling"]
+Pre_headings:           ["Already a JioFiber user?" , "Here’re some of the thoughtfully curated plans" , "Can't decide which plan is best for you?", "Confused between 2-3 plans?" , "Always at pace with your digital needs" , "Built for your unique digital aspirations" , "Get additional validity on long terms plans" , "Entertainment on demand!" , "Know why India is obsessed with JioFiber" , "FAQ" , "Unlimited data with JioFiber Prepaid plans"]
+Banner_img :            ["https://jep-asset.akamaized.net/jiocom/static/images/digital_aspiration.png" , "https://jep-asset.akamaized.net/jiocom/static/images/jioFiber-prepaid.jpg"]
+monthly_head:           ["150 Mbps" , "100 Mbps" , "30 Mbps" , "300 Mbps" , "500 Mbps" , "1 Gbps" , "Other Prepaid plans" , "More information" , "Unbox blockbuster experiences with JioFiber monthly plans" , "FAQ"]
+pre_buttons:            ["button Monthly", "button Quarterly" , "button Semi-Annual" , "button Annual" , "button ISD" , "button Top-up" , "button Data Sachet"]
+
+#Always_At_Pace_Y
+ALWAYS_AT_PACE_URL:     ["https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ==&subcategory=MzAgTWJwcywxMDAgTWJwcw==","https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ==&subcategory=MTAwIE1icHMsMTUwIE1icHMsMzAwIE1icHM=","https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ==&subcategory=MzAwIE1icHMsNTAwIE1icHMsMSBHYnBz"]
+ALWAYS_AT_PACE_30-100_URL:    https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ==&subcategory=MzAgTWJwcywxMDAgTWJwcw==
+ALWAYS_AT_PACE_100-300_URL:   https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ==&subcategory=MTAwIE1icHMsMTUwIE1icHMsMzAwIE1icHM=
+ALWAYS_AT_PACE_300-1000_URL:  https://www.jio.com/selfcare/plans/fiber/jiofiber-prepaid-monthly-plans/?category=Monthly&categoryId=TW9udGhseQ==&subcategory=MzAwIE1icHMsNTAwIE1icHMsMSBHYnBz
+
+
+Button_Name:            ['30-100','100-300','300-1000']
+Banner_Name:            ['Banner1','Banner2','Banner3']
+
+
+Postpaid:               //a[@cust-url='/selfcare/plans/fiber/fiber-postpaid-plans-home/']
+Our_Plan_For_Existing_User_Buttons:      ["//button[normalize-space()='Monthly']","//button[normalize-space()='Quarterly']","//button[normalize-space()='Semi-Annual']","//button[normalize-space()='Annual']","//button[normalize-space()='ISD']","//button[normalize-space()='Data Sachet']"]
+
+
+Sc_name:                ['Monthly_Button','Quarterly_Button','Semi-Annual_Button','Annual_Button','ISD_Button','Data_Sachet_Button']
+
+Already_Jio_Fiber_User_Section_Locator: //body/div[@id='__next']/div/section/section/section[1]
+
+
+Data_Sachet_Button:                     //button[@aria-label='button Data Sachet']
+Monthly_Button:                         (//button[normalize-space()='Monthly'])[1]
+Semi_Annual_Button:                     //button[@aria-label='button Semi-Annual']
+
+Thoughtfully_Curated_Section_Locator:   //body/div[@id='__next']/div/section/section/div[1]
+Why_India_is_Obsessed_Section_Locator:  //body/div[@id='__next']/div/section/section/section[6]
+Always_At_Pace_Section:                 //body/div[@id='__next']/div/section/section/div[1]
+
+Monthly_150MB_Plan_Recharge_Button:     (//button[@aria-label='button'][normalize-space()='Recharge'])[1]
+
+Accordian_Locator:                      //div[@class='j-accordion']
+Accordian_Container:                    (//div[@class='j-accordion']//span[@aria-label='button'])
+
+FAQ_LINK_SS:                            ['FAQ_SS1','FAQ_SS2','FAQ_SS3','FAQ_SS4','FAQ_SS5','FAQ_SS6','FAQ_SS7','FAQ_SS8']
+
+#Updated at 16/03
+FAQ_Data_HyperLinks:                    ["(//a[normalize-space()='https://www.jio.com/registration'])[1]","(//a[normalize-space()='MyJio app'])[1]","(//a[normalize-space()='Login'])[1]","(//a[normalize-space()='here'])[1]","(//a[normalize-space()='www.jio.com/fiber'])[1]","//a[normalize-space()='www.jio.com']","//li[contains(text(),'Visit')]//a","(//a[normalize-space()='https://www.jio.com/selfcare/track-order/auth'])[1]"]
+
+#NOTE: FAQ_DATA_HYPERLINKS Length=FAQ_Data_HyperLinks_List_Length
+FAQ_Data_HyperLinks_List_Length: 8
+
+Always_At_Pace_Data_Buttons:            ["//div[@class='j-grid']//div[@class='fiber-prepaid-plans_planCardCont__3YRQ8'][1]//button[@class='planCard_width100__2Gagi j-button j-button-size__small primary']","//div[@class='j-grid']//div[@class='fiber-prepaid-plans_planCardCont__3YRQ8'][2]//button[@class='planCard_width100__2Gagi j-button j-button-size__small primary']","//div[@class='j-grid']//div[@class='fiber-prepaid-plans_planCardCont__3YRQ8'][3]//button[@class='planCard_width100__2Gagi j-button j-button-size__small primary']"]

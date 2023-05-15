@@ -1,0 +1,4 @@
+Main_Banner:              xpath=//img[@src='https://jep-asset.akamaized.net/cms/assets/jioapps/masthead-alp-desktop-new.jpeg']
+Plus_sign:           j-accordion-panel-icn j-button j-button-size__medium tertiary icon-primary icon-only as-span
+Minus_sign:          j-accordion-panel-icn active j-button j-button-size__medium tertiary icon-primary icon-only as-span
+parent element:      xpath=//div[@class="j-accordion-panel active"]//div[@class="j-accordion-panel-content"]//div[@class="j-rich-text j-text"]//a   #FAQ answer

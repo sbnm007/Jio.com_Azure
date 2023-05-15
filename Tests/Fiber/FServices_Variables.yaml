@@ -1,0 +1,6 @@
+Services:           //a[@cust-url='/jcms/jiofiber/services/']
+Slider1:            {1: "₹3,900/-",25: "₹39,900/-" ,50: "₹77,400/-",75: "₹114,900/-",100: "₹152,400/-",0: "₹2,400/-"}
+Slider2:            {1: "₹1,200/-",25: "₹30,000/-" ,50: "₹60,000/-",75: "₹90,000/-",100: "₹120,000/-",0: "₹0/-" }
+Services_URLs:   ['https://www.jio.com/selfcare/interest/fiber/','https://www.jio.com/shop/en-in/bluetooth-game-controller-jgc-100/p/491894897','https://www.jio.com/shop/en-in/jioextender6-mesh-wi-fi-system/p/491894637','https://www.jio.com/shop/en-in/usb-camera/p/491581400','https://www.jio.com/shop/en-in/c/jioaccessories']
+#Extra Ordinary Services(EOS)
+EOS:                ["With Jio Set Top Box, do a lot more with your TV​","High speed internet & Free Voice​","Home Networking & Smart Security","JioCentrex"]

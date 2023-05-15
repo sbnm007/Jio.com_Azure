@@ -1,0 +1,92 @@
+Discover:         //a[@cust-url='/fiber'][normalize-space()='Discover']
+Quick_Recharge:   ["Quick Recharge", "Enter your JioFiber number"]
+Redefining_mainHeading:       "Redefining digital life"
+Redefining_mainSubheading:    "Explore new-age possibilities for your new-age aspirations."
+Redefining_heading:       ["Unbox magic with Jio Set-top Box" , "Superfast internet with free HD calls" , "Home networking, smart security"]
+Redefining_subtext:       ["Enjoy live TV shows, movies, OTT content, 200+ apps, and over 150 interactive games." , "Get unlimited internet with symmetrical speed, landline calls on mobile, and HD voice calls." , "Access, share content across devices, or watch over your family at home on the go."] 
+Redefining_button:        ["Learn More" , "Know more" , "Check it out"]
+Tiles_tit:        ["Jio 4K Set Top box with OTT Apps, Video calling & Games" , "High Speed Internet - Fastest Broadband with speeds up to 1Gbps" , "Jio Home Networking - Share your content across devices"]
+Tiles_url:        ["https://www.jio.com/jcms/jiofiber/services/jio-set-top-box/" , "https://www.jio.com/jcms/jiofiber/services/high-speed-internet/" , "https://www.jio.com/jcms/jiofiber/services/home-networking/"]
+Services_page:    https://www.jio.com/jcms/jiofiber/services/
+Redefining_image:        ["/set-up.png" , "/free-hd.png" , "/networking.png"]
+Redefining_tiles:      ["https://www.jio.com/jcms/jiofiber/services/jio-set-top-box/" , "https://www.jio.com/jcms/jiofiber/services/high-speed-internet/" , "https://www.jio.com/jcms/jiofiber/services/home-networking/"]
+ss_names:         ["Jiosettopbox" , "High-speed-internet" , "Home-networking"]
+
+#Popular JioFiber plans Section
+pop_plan_text:       ["Popular JioFiber plans","Find a perfect plan to go with your digital aspirations.","Find a perfect plan to go with your digital aspirations."]
+pop_plan_tabs:       ["Postpaid" , "Prepaid"]
+sub_text_1 :           ["Prime Video" , "Disney+ Hotstar" , "SonyLIV" , "ZEE5" , "Voot Select" , "Voot Kids" , "Sun NXT" , "Hoichoi" , "Discovery+" , "Universal +" , "ALTBalaji" , "Eros Now" , "Lionsgate Play" , "ShemarooMe" , "JioCinema" , "JioSaavn"]
+sub_src:             ["https://jep-asset.akamaized.net/jiocom/static/images/Z0071.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic_dph-n.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-sonyliv.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-zee5.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-voot-select.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-voot-kids.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-sunnxt.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-hoichoi.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-discovery-plus.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-unversal-plus.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-alt-balaji.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-eros-now.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-lionsgate-play.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-shemaroo.svg" , "https://jep-asset.akamaized.net/jio/svg/logo/jiocinema-n.svg" , "https://jep-asset.akamaized.net/jio/svg/logo/jiosaavn-n.svg"]
+PostpaidPlans_Text:          ["Plan validity 30 days","Speed 30 Mbps (30 Mbps Upload & 30 Mbps Download)","Data Unlimited","Voice Free","On-demand TV 400+ TV Channels"]
+PrepaidPlans_Text:         ["Plan validity 30 days","Speed 150 Mbps (150 Mbps Upload & 150 Mbps Download)","Data Unlimited","Voice Free"]
+SubscriptText:       ["Universal +","ALTBalaji","Eros Now","Lionsgate Play","ShemarooMe","JioCinema","JioSaavn"]
+Urls_PoJioFiber:     ["https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-home/","https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-home/" , "https://www.jio.com/selfcare/interest/fiber/"]
+
+#What's new section
+whatsNew_text:       ["What’s new in JioFiber","Get updated on the latest features, ongoing deals, and more."]
+tiles_heading:         ["TV-viewing like never before" , "Enjoy TV video calling" , "Relive your memories on TV"]
+tiles_subtext:         ["Pause, rewind, and play any scene." , "Got JioFiber? Have Jio Set-top Box?" , "View online, cloud, or device photos."]
+tiles_button:          ["Explore JioTV+" , "Get JioJoin, it's FREE" , "Learn about JioPhotos"]
+img_src:             ["/tv-viewing-like-never-before-fiber.png" , "/enjoy-tv-video-calling-fiber.png" , "/relive-your-memories-on-tv-fiber.png"]
+URLs_WhatsNew:       ["https://www.jio.com/jcms/jiofiber/services/apps/jiotvplus/","https://www.jio.com/jcms/jiofiber/services/apps/jiojoin/","https://www.jio.com/jcms/jiofiber/services/apps/jiophotos/"]
+
+#Plug, Sync Section
+plug_text:           ["Plug, sync, and upgrade! ","Experience the best of JioFiber with our lineup of innovations."]
+prod_tag:            ["Offer - Save 61%" , "Trending" , "Best-Seller"]
+prod_tag_caps:       ["OFFER - SAVE 61%" , "TRENDING" , "BEST-SELLER"]
+prod_img:            ["/accessories3-min.jpg" , "/jio-game-controller1-384x217.png" , "/jioremote.jpg"]
+prod_name:           ["JioExtender6 Mesh Wi-Fi System" , "Jio Game Controller" , "JioRemote"]
+prod_amt:            ["From ₹9,999" , "₹3,499" , "From ₹599"]
+URLs_PlugSync:       ["https://www.jio.com/shop/en-in/jioextender6-mesh-wi-fi-system/p/491894637","https://www.jio.com/shop/en-in/bluetooth-game-controller-jgc-100/p/491894897","https://www.jio.com/shop/en-in/jioremote/p/492403585"]
+
+#NeedGuidance Section
+NeedGuide_text:      ["Need guidance?","We’d love to help you."]
+Buttons_Name:         ["Support","Call us","Find a store"]
+Guidance_UrlList:    ["https://www.jio.com/help/home#/" ,"https://www.jio.com/help/contact-us?tab=call&option=fiber#/", "https://www.jio.com/selfcare/locate-us/"]
+
+
+Discover:         //a[@cust-url='/fiber'][normalize-space()='Discover']
+Quick_Recharge:   ["Quick Recharge", "Enter your JioFiber number"]
+Redefining_mainHeading:       "Redefining digital life"
+Redefining_mainSubheading:    "Explore new-age possibilities for your new-age aspirations."
+Redefining_heading:       ["Unbox magic with Jio Set-top Box" , "Superfast internet with free HD calls" , "Home networking, smart security"]
+Redefining_subtext:       ["Enjoy live TV shows, movies, OTT content, 200+ apps, and over 150 interactive games." , "Get unlimited internet with symmetrical speed, landline calls on mobile, and HD voice calls." , "Access, share content across devices, or watch over your family at home on the go."] 
+Redefining_button:        ["Learn More" , "Know more" , "Check it out"]
+Tiles_tit:        ["Jio 4K Set Top box with OTT Apps, Video calling & Games" , "High Speed Internet - Fastest Broadband with speeds up to 1Gbps" , "Jio Home Networking - Share your content across devices"]
+Tiles_url:        ["https://www.jio.com/jcms/jiofiber/services/jio-set-top-box/" , "https://www.jio.com/jcms/jiofiber/services/high-speed-internet/" , "https://www.jio.com/jcms/jiofiber/services/home-networking/"]
+Services_page:    https://www.jio.com/jcms/jiofiber/services/
+Redefining_image:        ["/set-up.png" , "/free-hd.png" , "/networking.png"]
+Redefining_tiles:      ["https://www.jio.com/jcms/jiofiber/services/jio-set-top-box/" , "https://www.jio.com/jcms/jiofiber/services/high-speed-internet/" , "https://www.jio.com/jcms/jiofiber/services/home-networking/"]
+ss_names:         ["Jiosettopbox" , "High-speed-internet" , "Home-networking"]
+
+#Popular JioFiber plans Section
+pop_plan_text:       ["Popular JioFiber plans","Find a perfect plan to go with your digital aspirations.","Find a perfect plan to go with your digital aspirations."]
+pop_plan_tabs:       ["Postpaid" , "Prepaid"]
+sub_text :           ["Prime Video" , "Disney+ Hotstar" , "SonyLIV" , "ZEE5" , "Voot Select" , "Voot Kids" , "Sun NXT" , "Hoichoi" , "Discovery+" , "Universal +" , "ALTBalaji" , "Eros Now" , "Lionsgate Play" , "ShemarooMe" , "JioCinema" , "JioSaavn"]
+sub_src:             ["https://jep-asset.akamaized.net/jiocom/static/images/Z0071.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic_dph-n.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-sonyliv.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-zee5.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-voot-select.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-voot-kids.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-sunnxt.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-hoichoi.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-discovery-plus.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-unversal-plus.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-alt-balaji.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-eros-now.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-lionsgate-play.svg" , "https://jep-asset.akamaized.net/jio/svg/app-logo/ic-shemaroo.svg" , "https://jep-asset.akamaized.net/jio/svg/logo/jiocinema-n.svg" , "https://jep-asset.akamaized.net/jio/svg/logo/jiosaavn-n.svg"]
+PostpaidPlans_Text:          ["Plan validity 30 days","Speed 30 Mbps (30 Mbps Upload & 30 Mbps Download)","Data Unlimited","Voice Free","On-demand TV 400+ TV Channels"]
+PrepaidPlans_Text:         ["Plan validity 30 days","Speed 150 Mbps (150 Mbps Upload & 150 Mbps Download)","Data Unlimited","Voice Free"]
+SubscriptText:       ["Universal +","ALTBalaji","Eros Now","Lionsgate Play","ShemarooMe","JioCinema","JioSaavn"]
+Urls_PoJioFiber:     ["https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-home/","https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-home/" , "https://www.jio.com/selfcare/interest/fiber/"]
+
+#What's new section
+whatsNew_text:       ["What’s new in JioFiber","Get updated on the latest features, ongoing deals, and more."]
+tiles_heading:         ["TV-viewing like never before" , "Enjoy TV video calling" , "Relive your memories on TV"]
+tiles_subtext:         ["Pause, rewind, and play any scene." , "Got JioFiber? Have Jio Set-top Box?" , "View online, cloud, or device photos."]
+tiles_button:          ["Explore JioTV+" , "Get JioJoin, it's FREE" , "Learn about JioPhotos"]
+img_src:             ["/tv-viewing-like-never-before-fiber.png" , "/enjoy-tv-video-calling-fiber.png" , "/relive-your-memories-on-tv-fiber.png"]
+URLs_WhatsNew:       ["https://www.jio.com/jcms/jiofiber/services/apps/jiotvplus/","https://www.jio.com/jcms/jiofiber/services/apps/jiojoin/","https://www.jio.com/jcms/jiofiber/services/apps/jiophotos/"]
+
+#Plug, Sync Section
+plug_text:           ["Plug, sync, and upgrade! ","Experience the best of JioFiber with our lineup of innovations."]
+prod_tag:            ["Offer - Save 61%" , "Trending" , "Best-Seller"]
+prod_tag_caps:       ["OFFER - SAVE 61%" , "TRENDING" , "BEST-SELLER"]
+prod_img:            ["/accessories3-min.jpg" , "/jio-game-controller1-384x217.png" , "/jioremote.jpg"]
+prod_name:           ["JioExtender6 Mesh Wi-Fi System" , "Jio Game Controller" , "JioRemote"]
+prod_amt:            ["From ₹9,999" , "₹3,499" , "From ₹599"]
+URLs_PlugSync:       ["https://www.jio.com/shop/en-in/jioextender6-mesh-wi-fi-system/p/491894637","https://www.jio.com/shop/en-in/bluetooth-game-controller-jgc-100/p/491894897","https://www.jio.com/shop/en-in/jioremote/p/492403585"]
+
+#NeedGuidance Section
+NeedGuide_text:      ["Need guidance?","We’d love to help you."]
+Button_Name:         ["Support","Call us","Find a store"]
+Guidance_UrlList:    ["https://www.jio.com/help/home#/" ,"https://www.jio.com/help/contact-us?tab=call&option=fiber#/", "https://www.jio.com/selfcare/locate-us/"]

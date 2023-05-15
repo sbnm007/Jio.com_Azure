@@ -1,0 +1,71 @@
+Postpaid:                       //a[@cust-url='/selfcare/plans/fiber/fiber-postpaid-plans-home/']
+Postpaid:                       xpath://a[@cust-url='/selfcare/plans/fiber/fiber-postpaid-plans-home/']
+Get_JioFiber:                   xpath:(//section[@class='j-container l-layout--centered'])
+
+Monthly_1:                      xpath://button[@aria-label='button Monthly']
+
+SemiAnnual_1:                   xpath://button[@aria-label='button Semi-Annual']
+
+Quarterly_1:                    xpath://button[@aria-label='button Quarterly']
+
+DataSachet_1:                   xpath://button[@aria-label='button Data Sachet']
+
+Annual_1:                       xpath://button[@aria-label='button Annual']
+
+ISD_1:                          xpath://button[@aria-label='button ISD']
+
+Plans_for_existing_users:       xpath://h1[contains(@class,'1vokM j-text j-text-heading-l')]
+
+Other_Postpaid_plans:           xpath:(//div[contains(@class,'2QPjV j-text j-text-heading-l')])[1]
+
+Postpaid:                       //a[@cust-url='/selfcare/plans/fiber/fiber-postpaid-plans-home/']
+
+#Our plans for existing users
+OurPlanButtons:                 ["Annual","Semi-Annual","Quarterly","Monthly","ISD","Data Sachet"]
+
+#Speeds as per your digital needs
+SpeedsSec:                      ["30-100 Mbps","100-300 Mbps","300-1000 Mbps"]
+
+#Discover more with Jio
+DiscImages:                     ["https://jep-asset.akamaized.net/jiocom/static/images/jiofiber-postpaid-hmpg-mob.jpg","https://jep-asset.akamaized.net/jiocom/static/images/card-1-fiber-min.jpg","https://jep-asset.akamaized.net/jiocom/static/images/MNP.jpg"]
+DiscButtons:                    ["Try JioFiber Postpaid","Book Jio Set-top Box","View JioFiber services"]
+
+Text:                           India's very own online gaming platform Set up a gaming zone right in the comfort of your home with our home-grown online gaming platform - JioGames. Connect gaming controllers, smartphones, or mixed-reality consoles, you can enjoy a zero-lag and a 100% fun experience with your friends and family across devices.
+Show_plans:                     xpath:(//button[contains(.,'Show plans')])[1]
+
+title:                          Postpaid Broadband Plans - JioFiber Postpaid Plans
+URLs:                           [https://jep-asset.akamaized.net/jio/plan/FTTX-Postpaid-Plan.pdf,https://jep-asset.akamaized.net/jio/plan/JioFIber-ISD-Packs-21072020_1.pdf]
+
+Error_message1:                  It seems you have entered a non-Jio number. Please try again with a Jio number
+Heading:                        Entertainment on demand!
+Text:                           On selected plans, use your Jio Set-top Box's login details to watch FREE OTT videos on any device.
+
+Our_Plan_For_Existing_User_Buttons:  ["//button[normalize-space()='Monthly']","//button[normalize-space()='Quarterly']","//button[normalize-space()='Semi-Annual']","//button[normalize-space()='Annual']","//button[normalize-space()='ISD']","//button[normalize-space()='Data Sachet']" , "//button[normalize-space()='Back-Up Plan']"]
+
+Our_Plan_For_Existing_User_Buttons_URL:  [
+'https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Annual&categoryId=QW5udWFs',
+'https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Semi-Annual&categoryId=U2VtaS1Bbm51YWw=',
+'https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Quarterly&categoryId=UXVhcnRlcmx5',
+'https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Monthly&categoryId=TW9udGhseQ==',
+'https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=ISD&categoryId=SVNE',
+"https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Data%20Sachet&categoryId=RGF0YSBTYWNoZXQ=" , 
+"https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Back-Up%20Plan&categoryId=QmFjay1VcCBQbGFu"
+]
+
+Sc_name:                                       ['Monthly_Button','Quarterly_Button','Semi-Annual_Button','Annual_Button','ISD_Button','Data_Sachet_Button' , 'BackUp_Plan_Button']
+
+Main_Banner_Locator:                            xpath=//div[normalize-space()='A happy beginning of your JioFiber journey'] 
+Our_Plans_for_Existing_User_Section_Locator:    //h1[normalize-space()='Our plans for existing users']
+
+Monthly_Page_Filter_Button:                     (//div[@class='Filter_filterBtn__2zlrF'])[1]//button[@class='j-button j-button-size__large secondary icon-primary icon-only']
+Monthly_Page_Filter_Show_Plans_Button:          (//button[@aria-label='button'][normalize-space()='Show plans'])[1]
+Monthly_Page_Filter_Cancel_Button:              //div[@class='j-modal j-modal-visible j-modal-closable j-modal-size-m j-modal-kind-dialog']//div[@class='j-modal-container']//div//header[@class='j-modal-header']//button[@aria-label='button']
+Monthly_Page_Filter_30MB_Checkbox_Button:       (//input[@type='checkbox'])[1]
+
+Other_Postpaid_Plan_Pop_Up_Button:              (//button[@aria-label='button'][normalize-space()='Other Postpaid plans'])[1]
+Other_Postpaid_Plan_Pop_Up_Cancel_Button:       (//button[@aria-label='button'])[5]
+
+Speeds_Urls:                                    ['https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Quarterly&categoryId=UXVhcnRlcmx5&subcategory=MzAgTWJwcywxMDAgTWJwcw==','https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Quarterly&categoryId=UXVhcnRlcmx5&subcategory=MTAwIE1icHMsMTUwIE1icHMsMzAwIE1icHM=','https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-list/?category=Quarterly&categoryId=UXVhcnRlcmx5&subcategory=MzAwIE1icHMsNTAwIE1icHMsMSBHYnBz']
+Discover_more_Urls:                             ['https://www.jio.com/selfcare/interest/fiber/','https://www.jio.com/selfcare/interest/fiber/','https://www.jio.com/jcms/jiofiber/services/']
+Sections_xpath:                                 ['//*[@id="__next"]/div[2]/section/section/div[6]','//*[@id="__next"]/div[2]/section/section/div[10]']
+Speed_Subheading:                               ['30 Mbps','100 Mbps','150 Mbps','300 Mbps','500 Mbps','1 Gbps']

@@ -1,0 +1,30 @@
+URL:                            https://www.jio.com/
+Browser:                        chrome
+Shops:                          //a[contains(text(),'Shop')]
+Apps:                           xpath=//a[@aria-label='Apps']
+Support:                        xpath=//a[@aria-label="Support"]
+Fiber:                          xpath=//a[@aria-label="JioFiber"]
+COCP_OR_Postpaid_Number:                      #Enter Postpaid Number
+Prepaid_Number:                               #Enter Prepaid Number/For "Mobile page" please enter Jio no. with Valid recharge .
+Tags_Activity_Location:         #Enter Tags.xlsx Full path Also replace Backslash '\' with frontslash '/'
+Fiber_No:                       7613564559
+Incorrect_No1:                  1234567890
+Incorrect_No2:                  9876543212
+PIN_Code:                       481001
+Name:                           Bond
+NavBar_URL:                     ['https://www.jio.com/shop/homepage','https://www.jio.com/shop/en-in/c/smartphones','https://www.jio.com/shop/en-in/c/smart-devices','https://www.jio.com/shop/en-in/c/jiofi','https://www.jio.com/shop/en-in/c/jioaccessories']
+button:                         //button[@id="AddToCartBTN"]
+
+#---------------------------- Support Common_Variables.yaml
+NavBar:                         ['//section[@class="j-container"]/a[@aria-label="Locate Us"]','//section[@class="j-container"]/a[@aria-label="Track Order"]','//section[@class="j-container"]/a[@aria-label="Contact Centre"]']
+Support_NavBarUrl:              [https://www.jio.com/selfcare/locate-us/,https://www.jio.com/en-in/track-order,https://www.jio.com/help/contact-us#/]
+
+#---------------------------- HomePage Common_Variables.yaml
+True5G:                         xpath=//a[@aria-label='True 5G']
+
+#---------------------------Mobila and Fiber Common_Variable.yaml
+Mobile_URL:                     xpath=//a[@aria-label="Mobile"]
+Sub_NavBar_URLs:                ['https://www.jio.com/fiber','https://www.jio.com/selfcare/plans/fiber/fiber-prepaid-plans-home/','https://www.jio.com/selfcare/plans/fiber/fiber-postpaid-plans-home/','https://www.jio.com/selfcare/interest/fiber/?nav=g','https://www.jio.com/selfcare/recharge/fiber/' , 'https://www.jio.com/selfcare/paybill/fiber/' , 'https://www.jio.com/jcms/jiofiber/services/']
+Selfcare_URL:                   https://selfcare.jio.com/
+Cross:                          xpath=//a[@aria-label='Close']
+Hyperlink:                      xpath=//div[contains(@class,'j-modal-visible j-modal-closable')]//div[@class="customScroll_scroll__1lZUu"]  

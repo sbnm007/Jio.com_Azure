@@ -1,0 +1,10 @@
+Jio-Mobile:         https://www.jio.com/mobile.html
+WT_UrlList:         ["https://www.jio.com/selfcare/plans/mobility/jio-international-roaming-plans/", "https://www.jio.com/jcms/apps/myjio/", "https://www.jio.com/en-in/jio-cashback-offer"]     
+WT_Button_Name:     ["Check international roaming plans",       "Get MyJio",         "View recharge partners"]     
+WT_Title:           ["Stay connected when abroad","One super app for your digital needs","Recharge and get rewards!"]
+AJ_Button_Name:     ["Learn about eSIM",    "Try JioTunes",    "Explore Wi-Fi calling"]
+AJ_UrlList:         ["https://www.jio.com/jcms/esim/",     "https://www.jio.com/jcms/jio-tunes/",   "https://www.jio.com/jcms/jio-wifi-calling/"]
+AJ_Title:           ["Get ready for a SIM-less future","Greet callers with your favourite song","Wi-Fi calling redefined!"]
+UrlList:            ["https://www.jio.com/en-in/help-support#/", "https://www.jio.com/en-in/help-support?source=campaign#/","https://www.jio.com/en-in/help-support/call-us#/","https://www.jio.com/selfcare/locate-us/"]
+Button_Name:        ["Support"   ,   "Chat with us"  ,   "Call us" ,    "Find a store"]
+

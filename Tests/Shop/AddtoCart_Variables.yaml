@@ -1,0 +1,7 @@
+Add_to_Cart_Message:          Product has been added to your cart!
+Question:                     Would you like to explore more products or go to cart?
+Table_Heading:                ['Items','Product Name','Quantity', 'Item Price']
+Checkout:                     https://www.jio.com/shop/checkout/multi/add-personal-details
+Cart:                         https://www.jio.com/shop/cart
+Error_Message:                Errors were found with the details provided. Please check the errors below and re-submit your details. 
+Excel_Sheet_Name_AddtoCart:   Shop_Add_to_Cart

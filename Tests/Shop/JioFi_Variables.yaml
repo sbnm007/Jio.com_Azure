@@ -1,0 +1,7 @@
+JioFi:                      //section[@class="j-container"]/a[@aria-label="JioFi"]
+Privacy_Policy:             https://www.jio.com/en-in/rrl-policy
+GoToCart_Url:               https://www.jio.com/shop/cart
+Filter_Title:               ["Price range","Brand","Battery capacity","Colour","Processor",]
+Filter_Container:           ["Price","Jio","Battery Capacity in mAh","Black","Qualcomm MDM9207"]
+JioFi_description:          ["Key Features","Technical Specs","Shipping & Delivery","Offers & Information"]
+JioFi_description_Id:       ["tab-details","tab-specification","tab-shipping","tab-guarantees"]

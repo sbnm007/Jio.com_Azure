@@ -1,0 +1,33 @@
+Heading:                                    [Curb causes of high data usage,Manage data used for video streaming,Check data usage for videos of different resolutions,Tips to restrict high background data usage,Detect apps consuming more data,View data consumed as per the time spent on the internet,Know your data plan, balance, and validity,Alerts on data usage]
+WebPageURL:                                 https://www.jio.com/help/helpful-tips#/
+GotQueries:                                 Got queries? Check FAQs for answers
+GotQueriesM:                                Mobile FAQ
+STMUSURL:                                   ['https://www.jio.com/selfcare/track-orders/?flow=token','https://www.jio.com/selfcare/autopay/','https://www.jio.com/selfcare/lost-login/','https://www.jio.com/selfcare/login/']
+HelfulTipsURL:                              ['https://www.jio.com/help/helpful-tips#/']
+SearchRechargeURL:                          https://www.jio.com/selfcare/recharge/mobility/
+LocateUsURL:                                https://www.jio.com/selfcare/locate-us/
+gotqueries_modules_text:                    [Mobile,JioFiber,Jio Apps,Devices,Online Shopping]
+gotqueries_section:                         //div[@class='main_container']//section[@class='j-container']
+gotqueries_modules_xpath:                   //div[@class='j-text j-text-body-xs-bold']
+gotqueries_modules_header_xpath:            //h1[@class='j-heading j-text-heading-l mb-0 sp--m pd--right']
+gotqueries_modules_tabs_xpath:              //div[@id="SecondList"]//button[@role="tab" ]
+gotqueries_modules_select_xpath:            //h2[normalize-space()='Select Topic']
+gotqueries_modules_relevantoptions_xpath:   //div[@aria-hidden='false']//ul//li
+gotqueries_modules_faqs_xpath:              //div[@class='faqs_visible j-accordion j-accordion-plus-minus-icon j-accordion-wrapper table_size accordion-ques-text']
+helpfultips_urls:                           ["https://www.jio.com/help/helpful-tips#/","https://www.jio.com/help/helpful-tips/time-spent-on-internet-vis-a-vis#/","https://www.jio.com/help/helpful-tips/know-your-data-plan-balance-and-validity#/","https://www.jio.com/help/helpful-tips#/"]
+helpfultips_scname:                         [First Tip,Second Tip,Third Tip]
+helpfultips_section:                        //section[@class="j-container "]
+helpfultips_header:                         //h2[@class='j-heading j-text-heading-l']
+helpfultips_tips:                           //a[@aria-label="Explore now"]
+helpfultips_viewmore:                       //button[@aria-label='View more helpful tips']
+helpfultips_texts:                          [Helpful tips,View more helpful tips]
+resolvingqueries_section:                   //section[@class='j-container bg--secondary-20'] 
+stillneed_section:                          //section[@class='j-container bg--primary-background']
+stillneed_buttons_xpath:                    //button[@class="j-button j-button-size__medium secondary icon-primary icon-primary-inline j-button-flex "]
+PortToJioURL:                               https://www.jio.com/port-to-jio-mnp
+Url_ViewAllPlans:                           https://www.jio.com/selfcare/plans/mobility/prepaid-plans-list/?category=Popular%20Plans&categoryId=UG9wdWxhciBQbGFucw==
+Url_PortToJio:                              https://www.jio.com/selfcare/interest/sim/?number=port
+Here'sWhy_subtitle:                         //div[@class="j-contentBlock__description  j-text-body-s j-color-primary-grey-80"]
+PortToJio_title:                            Get a Jio SIM
+PortToJio_subtitle:                         Just validate your number, share your address, and we'll deliver it to your doorstep for FREE
+TopHelpfulVideos_NavBar:                    ['Mobile','JioFiber','Jio Apps','Devices']

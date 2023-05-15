@@ -1,0 +1,10 @@
+Footer_Titles:             ["Reliance Industries Limited – Retail Markets | Telecom | Petroleum Refining & Marketing | Petrochemicals | Hydrocarbon Exploration & Production | Jio 4G | Reliance Shares" ,"Reliance Foundation - Catalyzing Sustainable Development in India | Nita Ambani"]
+
+# Akshaansh.H
+Button_Name:               ["Support", "Chat with us", "Call us" , "Find a store"]
+Guidance_UrlList:          ["https://www.jio.com/help/home#/"   ,    "https://www.jio.com/help/home?source=campaign#/"  , "https://www.jio.com/help/contact-us?tab=call#/" , "https://www.jio.com/selfcare/locate-us/"]
+
+
+#Onkar.Sarje
+Text_Locator:              xpath=//input[@id='quick-recharge-user-number']
+Continue_Button:           xpath=//button[normalize-space()='Continue']

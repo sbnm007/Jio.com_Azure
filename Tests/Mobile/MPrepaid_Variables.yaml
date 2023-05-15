@@ -1,0 +1,7 @@
+DJ_Title:    ["Relax, we'll bring your new SIM home",   "Switch to Jio for unmatched benefits",  "Activate Jio eSIM through SMS"] 
+DJ_Button:   ["Buy Jio SIM",   "Port to Jio",  "Know more"] 
+DJ_Url:      ["https://www.jio.com/selfcare/interest/sim/",  "https://www.jio.com/selfcare/interest/sim/?number=port",  "https://www.jio.com/jcms/esim/"]
+Plan_D:   [1.5 GB/day, 2 GB/day, 2.5 GB/day]
+Plan_ButtonName:   ["Check 1 GB/day plans",   "View 1.5 GB/day plans",  "Explore 2 GB/day plans"] 
+Plan_Url:          ["https://www.jio.com/selfcare/plans/mobility/prepaid-plans-list/?category=Popular%20Plans&categoryId=UG9wdWxhciBQbGFucw==&subcategory=MS41IEdCL2RheSBQbGFucw==", "https://www.jio.com/selfcare/plans/mobility/prepaid-plans-list/?category=Popular%20Plans&categoryId=UG9wdWxhciBQbGFucw==&subcategory=MiBHQi9kYXkgUGxhbnM=", "https://www.jio.com/selfcare/plans/mobility/prepaid-plans-list/?category=Popular%20Plans&categoryId=UG9wdWxhciBQbGFucw==&subcategory=Mi41IEdCL2RheSBQbGFucw=="]
+Infographics1:   ["Go for unlimited entertainment", "High-speed, reliable connectivity"]

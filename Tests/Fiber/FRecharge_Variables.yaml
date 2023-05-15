@@ -1,0 +1,6 @@
+Recharge:                   //a[@cust-url='/selfcare/recharge/fiber/']
+RechargeMobileTab:          //a[@cust-url='/selfcare/recharge/mobility/']
+PayBill:                    https://www.jio.com/selfcare/paybill/
+CountryNameForPlan:         ITALY
+SuggestedCountryPlan:       //div[@class="simplebar-wrapper"]//div//div//div[@aria-label="scrollable content"]
+T&CpageFiberTabURL:         https://www.jio.com/en-in/fiber/jiofiber-amazon-prime-offer

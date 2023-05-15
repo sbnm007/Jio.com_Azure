@@ -1,0 +1,23 @@
+contactURL:       https://www.jio.com/help/contact-us#/
+email:            xpath=//span[normalize-space()='Email']
+call:             xpath=//span[normalize-space()='Call']
+welcome:          Welcome to Jio Support
+connect:          Connect with us
+wapp:             Reach out on WhatsApp
+jc:               Chat with JioCare
+any:              Any queries? Simply write to us.
+jn:               Jio Number/Registered Mobile Number
+product:          Select Product/Service
+describe:         Describe your query or concern in details
+please:           Please enter all fields
+emailID:          abcd@gmail.com
+description:      abcdefghijklmnopqrstuvwxyzz
+msg:              Your message has been submitted successfully. We will reply to you shortly.
+jp:               JioPhone, JioFi & LYF Mobile
+aa:               xpath=//a[normalize-space()='Appellate Authority']
+text:             ['Recharge','Plans','My account','Get JioFiber','Get Jio SIM','JioFiber plans','MyJio','Quick links','Email Address','Upload document','1234567890','Jio Mobile','JioFiber','Online Shopping','Appellate Authority']
+jioSupport:       xpath=//h1[normalize-space()='Welcome to Jio Support']
+connect_with_us:  xpath=//h2[normalize-space()='Connect with us']
+chat:             xpath=//span[normalize-space()='Chat']
+whatsapp:         xpath=//div[normalize-space()='Reach out on WhatsApp']
+jiocare:          xpath=//div[normalize-space()='Chat with JioCare']

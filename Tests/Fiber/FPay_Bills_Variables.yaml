@@ -1,0 +1,9 @@
+Paybills:                xpath://nav[@parent-attr="JioFiber"]//a[text()="Pay Bills"]
+Paybills_MobileTabURL:            https://www.jio.com/selfcare/paybill/mobility/
+PayBillFiberTabURL:      https://www.jio.com/selfcare/paybill/fiber/
+InactiveAccFiberTabURL:  https://www.jio.com/selfcare/pdc/
+ToastLocator:            //div[@class="ErrorToast_notificationErrorStyle__KAzDY j-notification j-notification__kind-semantic j-notification__duration-short j-notification__visible"]
+i_popup:                 ["JioFiber Voice Number", "Fixed Landline Number", "Account number or Service ID (12-digit)"]
+PayBillFiberNos:         ["1234567890","7613564559"]
+PayBill_FiberToasts:     ["Please enter a valid landline number/Service ID","You have entered a prepaid Jio number."]            
+Paybills_MobileNumbers:           ["9372511162","7039629554","9082157710"]
